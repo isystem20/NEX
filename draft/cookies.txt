@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+csis.fcmat.org	TRUE	/	FALSE	1999999999	ARRAffinity	68eaaab5b8cdf0d5e06a0f128bee8b87e7b0da301ad45322de2c187de3ff3fff
+csis.fcmat.org	TRUE	/	FALSE	1999999999	orchantiforgery_CSIS	CfDJ8MZnURm8ZFVPhcN02l-vbw0tneuvW6l-vCSMtHaoWm5vPWDqcWfwAlDeWUYB4ZRPFtsg1v9L3-4oiYwQRuUXrSiqSseDxFBcY3iPeg6wbr7wpfggtAHCDEyvigmz2IewrQI97qjMxAkd4Dfd6b7mvLk
+csis.fcmat.org	TRUE	/	FALSE	1999999999	samesite	lax
+
